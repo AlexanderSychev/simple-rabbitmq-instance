@@ -39,4 +39,4 @@ Execute in this directory:
 docker-compose up
 ```
 
-RabbitMQ will be available at `192.168.255.255:5672`/`192.168.255.255:15672`.
+RabbitMQ will be available at `192.168.33.9:5672`/`192.168.33.9:15672`.
